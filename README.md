@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @snikos
 - 👀 I’m interested in Web tehnologies and googling
-- 🌱 I’m currently learning Node.js
+- 🌱 I’m currently learning Node.js & Vue.js
 - 💞️ I’m looking to collaborate with web-studios
 - 📫 How to reach me: cobrascript@yandex.ru
 
